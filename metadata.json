@@ -1,0 +1,7 @@
+{
+  "name": "ScamShield AI",
+  "description": "AI-Powered Financial Fraud Awareness, Training and Simulation Platform. Learn From Scams Before Scammers Teach You.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
